@@ -1,2 +1,2 @@
 Hello Jignesh, I am Magento developer
-Hello Git
+Hello Git, I am Jignesh
